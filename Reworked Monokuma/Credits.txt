@@ -1,0 +1,9 @@
+Credits:
+Spike Chunsoft: For that Monokuma model.
+Ziella: Porting the Monokuma model from Danganronpa V3: Killing Harmony (https://www.models-resource.com/pc_computer/danganronpav3killingharmony/model/21826/)
+Page of Life: For the original Monokuma boss and allowing me to tweak him up a bit as well as adding a few new things.
+Painkiller76: Apparently helped out beforehand with fixing up Monokuma's model.
+Glacetomic: For providing new search and chase themes.
+Demon Hamster: Edited xome textures of the model.
+
+As always, it's highly recommended to have at least the latest versions of Slender Fortress Modified. If using very old versions of Modified or otherwise different versions of Slender Fortress, chances are these bosses won't work properly as they should.
